@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YAB.ToDoAppNTier.DataAccess", "YAB.ToDoAppNTier.DataAccess\YAB.ToDoAppNTier.DataAccess.csproj", "{34C43E5C-5D7F-4603-BB44-616241F76421}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YAB.ToDoApp.NTier.Business", "YAB.ToDoApp.NTier.Business\YAB.ToDoApp.NTier.Business.csproj", "{CCA72C94-2025-4C16-9E7F-9CD184FE6D33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YAB.ToDoAppNTier.Entities", "YAB.ToDoAppNTier.Entities\YAB.ToDoAppNTier.Entities.csproj", "{25CF650F-AC37-4768-A1FF-5307DC2B4CE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YAB.ToDoAppNTier.Dtos", "YAB.ToDoAppNTier.Dtos\YAB.ToDoAppNTier.Dtos.csproj", "{D6E99C94-32E1-4D90-9B9B-964A2A154DF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YAB.ToDoAppNTier.UI", "YAB.ToDoAppNTier.UI\YAB.ToDoAppNTier.UI.csproj", "{CBEBA5ED-89A1-4BB7-ADE8-2D7AFEA7728E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAB.ToDoAppNTier.Common", "YAB.ToDoAppNTier.Common\YAB.ToDoAppNTier.Common.csproj", "{4F8F8027-05D8-4E7D-BD25-0C853453033D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C43E5C-5D7F-4603-BB44-616241F76421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C43E5C-5D7F-4603-BB44-616241F76421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C43E5C-5D7F-4603-BB44-616241F76421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C43E5C-5D7F-4603-BB44-616241F76421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA72C94-2025-4C16-9E7F-9CD184FE6D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA72C94-2025-4C16-9E7F-9CD184FE6D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA72C94-2025-4C16-9E7F-9CD184FE6D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA72C94-2025-4C16-9E7F-9CD184FE6D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CF650F-AC37-4768-A1FF-5307DC2B4CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CF650F-AC37-4768-A1FF-5307DC2B4CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CF650F-AC37-4768-A1FF-5307DC2B4CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CF650F-AC37-4768-A1FF-5307DC2B4CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E99C94-32E1-4D90-9B9B-964A2A154DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E99C94-32E1-4D90-9B9B-964A2A154DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E99C94-32E1-4D90-9B9B-964A2A154DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E99C94-32E1-4D90-9B9B-964A2A154DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEBA5ED-89A1-4BB7-ADE8-2D7AFEA7728E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEBA5ED-89A1-4BB7-ADE8-2D7AFEA7728E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEBA5ED-89A1-4BB7-ADE8-2D7AFEA7728E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEBA5ED-89A1-4BB7-ADE8-2D7AFEA7728E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8F8027-05D8-4E7D-BD25-0C853453033D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8F8027-05D8-4E7D-BD25-0C853453033D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8F8027-05D8-4E7D-BD25-0C853453033D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8F8027-05D8-4E7D-BD25-0C853453033D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F12FD9-B613-4B66-A3F8-EDE4890E0189}
+	EndGlobalSection
+EndGlobal

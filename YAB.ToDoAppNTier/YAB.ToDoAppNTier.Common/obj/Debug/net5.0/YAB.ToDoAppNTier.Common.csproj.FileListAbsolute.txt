@@ -1,0 +1,12 @@
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\bin\Debug\net5.0\YAB.ToDoAppNTier.Common.deps.json
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\bin\Debug\net5.0\YAB.ToDoAppNTier.Common.dll
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\bin\Debug\net5.0\YAB.ToDoAppNTier.Common.pdb
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\obj\Debug\net5.0\YAB.ToDoAppNTier.Common.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\obj\Debug\net5.0\YAB.ToDoAppNTier.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\obj\Debug\net5.0\YAB.ToDoAppNTier.Common.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\obj\Debug\net5.0\YAB.ToDoAppNTier.Common.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\obj\Debug\net5.0\YAB.ToDoAppNTier.Common.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\obj\Debug\net5.0\YAB.ToDoAppNTier.Common.dll
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\obj\Debug\net5.0\refint\YAB.ToDoAppNTier.Common.dll
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\obj\Debug\net5.0\YAB.ToDoAppNTier.Common.pdb
+C:\Users\yusuf\source\repos\YAB.ToDoAppNTier\YAB.ToDoAppNTier.Common\obj\Debug\net5.0\ref\YAB.ToDoAppNTier.Common.dll

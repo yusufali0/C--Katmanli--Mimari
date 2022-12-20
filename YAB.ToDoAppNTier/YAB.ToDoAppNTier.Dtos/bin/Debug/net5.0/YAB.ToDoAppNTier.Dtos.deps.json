@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YAB.ToDoAppNTier.Dtos/1.0.0": {
+        "runtime": {
+          "YAB.ToDoAppNTier.Dtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YAB.ToDoAppNTier.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
